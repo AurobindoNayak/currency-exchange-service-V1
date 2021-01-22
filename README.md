@@ -1,3 +1,3 @@
-# MicroService-V1
+# currency-exchange-service-V1
 CurrencyExchangeService
 CurrencyConversionService
